@@ -27,6 +27,3 @@ for p in pas:
     if(d==hash):
         print("password found:"+p)
         quit()
-    
-    #783ed55b5ec4de1b0386fb7b3abdba66
-    #ade3ce428ebb3eb3c58a21581eca9cef
